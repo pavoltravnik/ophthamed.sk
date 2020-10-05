@@ -5,7 +5,7 @@ module.exports = {
     description: 'Súkromná očná ambulancia v Žiline',
     siteUrl: 'https://www.ophthamed.sk/',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@pavoltravnik',
     },
   },
   pathPrefix: '/',
