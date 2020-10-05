@@ -7,8 +7,9 @@ To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 ## Deploy
 
 ```
-yarn build
-ssh ophthamed@37.205.14.173 'rm -r public_html/*'
+yarn;
+yarn build;
+ssh ophthamed@37.205.14.173 'rm -r public_html/*';
 cd public;
-tar czf - * | ssh ophthamed@37.205.14.173 "cd /home/ophthamed/public_html/ && tar xvzf -"
+tar czf - * | ssh ophthamed@37.205.14.173 "cd /home/ophthamed/public_html/ && tar xvzf -";
 ```
