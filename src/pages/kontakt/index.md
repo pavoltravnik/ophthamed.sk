@@ -11,6 +11,8 @@ cta: ''
 
 MUDr. Blandína Lipková, PhD.
 
+zdravotná sestra: Blanka Tomašovičová
+
 Ul.J.Kovalíka 33
 
 010 01 Žilina
@@ -25,10 +27,8 @@ Pevná linka: +421 41 724 2807
 
 [ophthamed@stonline.sk](mailto:ophthamed@stonline.sk)
 
-## Odinačné hodiny
+## Ordinačné hodiny
 
 Pondelok - Piatok : po 16:00 h
 
 na základe tel. objednania
-
-mimoriadne aj cez víkend
