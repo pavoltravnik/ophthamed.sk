@@ -11,6 +11,8 @@ import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 // import Signup from '../components/Signup';
 import Panel from '../components/Panel';
+import Video from '../components/Video';
+
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 import { rhythm, scale } from '../utils/typography';
 import {
@@ -178,6 +180,9 @@ class BlogPostTemplate extends React.Component {
               )}
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
+            {post.frontmatter.videoSrc && (
+              <Video videoSrc={post.frontmatter.videoSrc} />
+            )}
             <footer>
               <p>
                 {/* <a href={discussUrl} target="_blank" rel="noopener noreferrer">
@@ -273,6 +278,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         spoiler
         cta
+        videoSrc
       }
       fields {
         slug

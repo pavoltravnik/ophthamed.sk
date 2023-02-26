@@ -23,8 +23,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          MUDr. Blandína Lipková, PhD. Súkromná očná ambulancia v Žiline{' '}
-          blandina.lipkova@gmail.com <br />
+          MUDr. Blandína Lipková, PhD. Súkromná očná ambulancia v Žiline <br />
           speaks: 🇸🇰 🇬🇧 🇩🇪 🇮🇹
         </p>
       </div>

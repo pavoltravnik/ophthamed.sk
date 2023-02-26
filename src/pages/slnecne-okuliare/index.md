@@ -9,7 +9,7 @@ cta: 'react'
 
 Slnečné svetlo je nevyhnutné pre život na Zemi. Človek ho potrebuje pre tvorbu vitamínu D, pre posilnenie imunitného systému a tiež pozitívne ovplyvnenie nálady. Neviditeľné zložky slnenčného žiarenia- ultrafialové /UV/ a infračervené /IR/ pri väčšom množstve ľudskému telu škodia.
 
-Zrakom získavame až 80% informácií z prostredia, ktoré nás obklopuje. Venujeme im primeraný podiel zo starostlivosti o naše telo?
+Zrakom získavame až 90% informácií z prostredia, ktoré nás obklopuje. Venujeme im primeraný podiel zo starostlivosti o naše telo?
 
 Za posledných 30 rokov sa zmenšila veľkosť ozónovej vrstvy o 10%, čo znamená že je priepustnejšia pre UV žiarenie. Na ochranu očí treba dbať hlavne pri vysokohorskej turistike a plávaní v prírode. Zradcom môže byť vietor, ktorý nás ochladzuje, tým znižuje našu ostražitosť a snahu chrániť sa. Zaujímavé je, že aj hmla môže zvyšovať **škodlivé účinky UV-žiarenia**, keď kvapky pôsobia ako lupa.
 

@@ -65,4 +65,12 @@ Suché oko po prvý krát popísal Sjogren v roku 1933.
 - oklúzia slzných bodov- dočasná- zátky slzných bodov
 - permanentná- chirurgická, kauterizácia
 - Chirurgická: transplantácia spojovky, ústnej sliznice, slinných žliaz, anastomóza so slinnou žľazou
+- nové zariadenia na liečbu suchého oka pracujúce na podlklade tepla (https://www.aao.org/eye-health/tips-prevention/how-to-treat-dry-eye-devices) alebo QMR- quantum molecular resonance (Rexon- Eye)
 
+
+###  Prevencia suchého oka:
+- vyhnúť sa prašnému prostrediu,cigaretovému dymu
+- chrániť oči okuliarmi vo vetre
+- dopriať si oddych a častejšie žmurkať
+- suplementácia omega 3 mastnymi kyselinami
+- vlažné obklady a hygiena okrajov očných viečok
