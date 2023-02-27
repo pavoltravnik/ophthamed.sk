@@ -4,7 +4,7 @@ import React from 'react';
 import OkuliarePreAfriku from '../assets/video-okuliare-pre-afriku.mp4';
 
 const Video = ({ videoSrc, ...props }) => {
-  const video = () => {
+  const video = (videoSrc) => {
     if (videoSrc === 'video-okuliare-pre-afriku.mp4') {
       return OkuliarePreAfriku;
     }
@@ -13,8 +13,8 @@ const Video = ({ videoSrc, ...props }) => {
 
   return (
     <div className="video">
-      <video controls>
-        <source src={OkuliarePreAfriku} type="video/mp4" />
+      <video controls autoplay muted playsinline>
+        <source src={video(videoSrc)} type="video/mp4" />
       </video>
     </div>
   );
