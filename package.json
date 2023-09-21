@@ -1,9 +1,6 @@
 {
   "name": "Ophthamed",
   "private": true,
-  "engines": {
-    "node": "12.x"
-  },
   "description": "Ophthamed",
   "version": "1.0.0",
   "author": "Pavol Travnik <pavol.travnik@gmail.com>",
