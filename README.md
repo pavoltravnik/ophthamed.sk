@@ -13,5 +13,5 @@ yarn;
 yarn build;
 ssh ophthamed@${IP_ADDRESS} 'rm -r public_html/*';
 cd public;
-tar czf - * | ssh ophthamed@${IP_ADDRESS} "cd /home/ophthamed/public_html/ && tar xvzf -";
+tar czf - * | ssh ophthamed@${IP_ADDRESS} "cd /home/newnode/staticsites/ && tar xvzf -";
 ```
