@@ -55,7 +55,7 @@
     "format": "prettier --write '{gatsby-*.js,src/**/*.{js,jsx,json,css}}'",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "build": "gatsby build",
+    "build": "gatsby build && cp /app/public/* /app/build/",
     "now-build": "gatsby build",
     "deploy": "yarn build && cd public && ssh ophthamed@37.205.14.173 'rm -r public_html/*' && tar czf - * | ssh ophthamed@37.205.14.173 'cd /home/ophthamed/public_html/ && tar xvzf -';",
     "deploy_overreacted": "yarn build && cp now.json public/ && cd public && now alias $(now) ophthamed.sk",
