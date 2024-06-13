@@ -8,7 +8,7 @@ cta: ''
 |||
 |--|--|
 |1. vyšetrenie predného segmentu oka|50,00 €|
-|2a. ošetrenie cudzieho telieska spojovky|05,00 €|
+|2a. ošetrenie cudzieho telieska spojovky|50,00 €|
 |2b. ošetrenie cudz. telieska rohovky|70,00 €|
 |3a. kontrolné očné vyšetrenie|35,00 €|
 |3b. preventívne očné vyšetrenie - základné|60,00 €|
